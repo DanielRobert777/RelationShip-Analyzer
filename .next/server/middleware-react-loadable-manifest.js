@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages/index.js -> ../components/RelationshipGraph\":{\"id\":\"pages/index.js -> ../components/RelationshipGraph\",\"files\":[\"static/chunks/_pages-dir-browser_components_RelationshipGraph_js.js\"]}}"
